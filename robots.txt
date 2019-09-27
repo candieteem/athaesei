@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojigahjie.mal-lang.org/sitemap.xml
